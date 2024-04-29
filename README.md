@@ -1,5 +1,6 @@
 # bootanimation
 A Custom Boot Animation for Android (Root Required!)
+Press (+ Releases) to show more Bootanimation!
 
 # How To Use It?
 1. **Gain Root Access**: Ensure your device has been rooted. The rooting process can vary depending on your device and the Android version you're using. Typically, you would use tools like Magisk or SuperSU to gain root access.
