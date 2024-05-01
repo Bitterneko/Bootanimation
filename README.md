@@ -12,7 +12,7 @@ A Custom Boot Animation for Android (Root Required!)
 
 4. **Reboot**: After you've copied the bootanimation.zip file to the system directory and set its permissions, reboot your device. Upon reboot, your device should play the new boot animation.
 
-# ADB Method (Rootless Solution)
+# ADB Method 
 1. **Connect Device**: Connect your Android device to your computer via USB.
 
 2. **Enable USB Debugging**: On your Android device, navigate to Settings > Developer Options, then enable USB debugging. If Developer Options are not visible, go to Settings > About phone, and tap on "Build number" multiple times until you see a message indicating that Developer Options are enabled.
